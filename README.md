@@ -1,16 +1,18 @@
-# flutter_imccalculator
+# IMC App
 
-A new Flutter project.
+Projeto de um Aplicativo de Calculadora IMC.
 
-## Getting Started
+## Funcionalidades
+- Calcular seu IMC;
+- Gerar lista de histórico de IMC;
+- Remover Itens da lista;
+- Comparar com os valores ideais.
 
-This project is a starting point for a Flutter application.
+## Imagens
+<img src="https://github.com/JoaoVtrxx/ToDoApp/assets/106991499/86e637f2-93fd-421d-97da-1ec422dfeda5" width="200" height="400"/>
+<img src="https://github.com/JoaoVtrxx/ToDoApp/assets/106991499/b0492ce1-b41c-4cad-9478-320f0cae300c" width="200" height="400" />
+<img src="https://github.com/JoaoVtrxx/ToDoApp/assets/106991499/23cfc2e6-fa01-4e11-a639-d76149389964" width="200" height="400" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download
+O app pode ser instalado através do apk publicado neste repositório.
